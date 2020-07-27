@@ -1,29 +1,20 @@
 ## express-generatorでアプリケーションの雛形の生成
 
+<p>
+express-generatorのインストール<br/>
+アプリの生成<br/>
+依存関係のインストール<br/>
+起動<br/>
+</p>
 
-express-generatorのインストール
----
 ```sh
 npm i -g express-generator
-```
-
-アプリの生成
----
-```sh
 express -e code_02_js
-```
-
-依存関係のインストール
----
-```sh
 cd code_02_js && npm install
-```
-
-起動
----
-```sh
 npm start
 ```
+
+
 
 
 
