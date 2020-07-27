@@ -1,12 +1,10 @@
 ## express-generatorでアプリケーションの雛形の生成
 
-<p>
-express-generatorのインストール<br/>
-アプリの生成<br/>
-依存関係のインストール<br/>
-起動<br/>
-</p>
 
+1. express-generatorのインストール
+2. アプリの生成
+3. 依存関係のインストール
+4. 起動
 ```sh
 npm i -g express-generator
 express -e code_02_js
