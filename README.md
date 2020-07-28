@@ -30,7 +30,7 @@ npm set init.author.email "XXXXXXXX@gmail.com"
 # Nodejs + express
 ## express-generatorでアプリケーションの雛形の生成
 
-[http://localhost:3000]: # (http://localhost:3000)
+
 1. express-generatorのインストール
 2. アプリの生成
 3. 依存関係のインストール
@@ -41,3 +41,5 @@ express -e code_02_js
 cd code_02_js && npm install
 npm start
 ```
+
+[http://localhost:3000](http://localhost:3000)
